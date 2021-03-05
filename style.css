@@ -1,0 +1,18 @@
+body {
+    width: 70%;
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+aside {
+    background-color: #dfdfdf;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    float: left;
+    display: inline-block;
+}
